@@ -1,3 +1,6 @@
+---
+sidebar_position: 100
+---
 
 import Clean1 from '/img/clean-code/clean-code-1.png'
 import Clean2 from '/img/clean-code/clean-code-2.png'
