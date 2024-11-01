@@ -19,6 +19,13 @@ import Img02 from '/img/getting-things-done/getting-things-done-1.png'
 |5|  | 致富心态 | 创业 |
 |6|  | 深入理解ES6 | [编程](./category/编程)   |
 |7|  | 纳瓦尔宝典 | [成长](./category/成长) |
+|8|  | UNIX/Linux 系统管理技术手册 | [编程](./category/编程)   |
+|9|  | Show Your Work! | 创业 |
+|10|  | CSS 权威指南 | [编程](./category/编程)   |
+|11|  | 像火箭科学家一样思考 | [成长](./category/成长) |
+|12|  | 极简主义企业家：伟大的创始人如何用更少的钱做更多的事 | 创业 |
+
+
 
 
 
