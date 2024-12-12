@@ -16,7 +16,6 @@ import Img1 from '/img/practical-sql/img1.png'
 
 [Amazon](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
-电子书资源：英文版、epub、pdf
 
 
 

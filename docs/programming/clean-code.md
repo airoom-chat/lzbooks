@@ -30,8 +30,6 @@ Martin在书中强调了代码的可读性和可维护性，他认为代码不�
 
 [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
-[下载中英文版、epub、pdf](https://github.com/packdir/books/tree/master/Clean.Code)
-
 分章节视频课程：[YouTube: Clean Code](https://www.youtube.com/playlist?list=PL-uROEx3vAxg-yricXrDaOK9xzHGGQk1u)
 
 这里有一个视频，具体讨论其中的规则：[Stop Recommending Clean Code](https://www.youtube.com/watch?v=IqHaGd9J42s)

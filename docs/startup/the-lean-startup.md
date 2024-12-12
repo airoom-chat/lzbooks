@@ -18,8 +18,6 @@ import Img2 from '/img/the-lean-startup/lean2.png'
 
 [Amazon](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
-电子书资源：中英文版、epub、pdf
-
 
 
 

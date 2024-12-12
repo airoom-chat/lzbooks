@@ -31,7 +31,6 @@ GTD方法包括五个主要步骤：
 
 [Amazon](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
 
-[下载中英文版、epub、pdf](https://github.com/packdir/books/tree/master/Getting.Things.Done)
 
 8分钟视频总结：[Animated Book Summary And Review](https://www.youtube.com/watch?v=gCswMsONkwY)
 
