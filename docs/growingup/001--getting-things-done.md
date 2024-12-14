@@ -4,10 +4,11 @@ import Gtd2 from '/img/getting-things-done/getting-things-done-2.png'
 
 # 《Getting Things Done》
 
-亚马逊上高达5千多人打分4.4（满分5分）。
 
 <img src={Gtd1} alt="cover" style={{width:300}} />
 <img src={Gtd2} alt="cover" style={{width:400}} />
+
+亚马逊上高达5千多人打分4.4（满分5分）。
 
 《**Getting Things Done**: The Art of Stress-Free Productivity》（GTD）是由戴维·艾伦（David Allen）撰写的一本关于个人效率和时间管理的经典书籍。自2001年首次出版以来，这本书已经成为全球数百万读者提高工作效率和减轻压力的指南。
 
