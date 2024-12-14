@@ -1,7 +1,8 @@
 ---
 slug: /
 sidebar_position: 1
-title: 亮子书单
+title: 序
+hide_title: true
 ---
 
 import Img01 from '/img/clean-code/clean-code-1.png'
@@ -29,5 +30,5 @@ import Img04 from '/img/practical-sql/img1.png'
 >                       ---- 找书博主 - 亮子
 >
 
-为了方便找书，我创建了这个项目：**亮子书单**。
+为了方便找书，于是我创建了这个项目：**亮子书单**。
 
