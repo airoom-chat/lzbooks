@@ -7,6 +7,9 @@ title: 有錢人想的和你不一樣
 import Cover from '/img/secrets-of-the-millionaire-mind/cover.png'
 import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
+<img src={Cover} alt="cover" style={{width:300}} />
+<img src={Tw} alt="cover" style={{width:350}} />
+
 原书名：**Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth**
 
 出版日期：2005
@@ -16,9 +19,6 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 出版日期：2020
 
 这本畅销书在[亚马逊上 1 万人打出了 4.7 星](https://www.amazon.com/Secrets-Millionaire-Mind-Mastering-Wealth/dp/0060763280)。
-
-<img src={Cover} alt="cover" style={{width:300}} />
-<img src={Tw} alt="cover" style={{width:350}} />
 
 ## 本书介绍
 
