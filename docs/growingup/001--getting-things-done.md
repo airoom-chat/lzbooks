@@ -2,7 +2,7 @@
 import Gtd1 from '/img/getting-things-done/getting-things-done-1.png'
 import Gtd2 from '/img/getting-things-done/getting-things-done-2.png'
 
-# 《Getting Things Done》
+# Getting Things Done
 
 
 <img src={Gtd1} alt="cover" style={{width:300}} />
