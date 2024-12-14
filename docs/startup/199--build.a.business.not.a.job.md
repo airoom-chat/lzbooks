@@ -6,11 +6,12 @@ title: Build a Business, Not a Job
 
 import Cover from '/img/build-a-business-not/build-a-business.png'
 
+<img src={Cover} alt="cover" style={{width:300}} />
+
 [亚马逊上 500+ 人打出 4.4 星](https://www.amazon.com/dp/B0733J5S65/ref=sspa_dk_detail_2)
 
 本书是对企业主提出的建议和方法，它要解决的问题也是创业者一开始就需要思考的，你在创建的是一个事业？还是一份工作？
 
-<img src={Cover} alt="cover" style={{width:300}} />
 
 ## 本书介绍
 
