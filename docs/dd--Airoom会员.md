@@ -1,6 +1,6 @@
 ---
 slug: platform-and-membership-plan
-sidebar_position: 199
+sidebar_position: 2
 ---
 
 import Henry from '/img/henry-qr.jpg'
