@@ -1,3 +1,7 @@
+---
+slug: getting-things-done
+sidebar_position: 003
+---
 
 import Gtd1 from '/img/getting-things-done/getting-things-done-1.png'
 import Gtd2 from '/img/getting-things-done/getting-things-done-2.png'
