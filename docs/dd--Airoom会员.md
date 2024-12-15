@@ -5,50 +5,27 @@ sidebar_position: 199
 
 import Henry from '/img/henry-qr.jpg'
 
-# 300+ 本全球最佳图书: Airoom 平台及会员计划
+# 300+ 本全球最佳图书: 项目及会员计划
 
 Airoom 是一个 AI 工具及内容传播平台。
 
-## 平台建设
+## “亮子书单”、“与书交谈”
 
-正在建设的几个项目：
-
-▶️ [airoom.chat](https://airoom.chat/)
-
-各种大模型中转使用。
+正在建设的两个项目：
 
 ▶️ 亮子书单 （[lzbooks.airoom.chat](https://lzbooks.airoom.chat/)）
 
 每年推荐 300+ 本有影响的英文图书。
 
-▶️ Talk To Book （[talktobook.airoom.chat](https://talktobook.airoom.chat/)）
+▶️ 与书交谈 （[talktobook.airoom.chat](https://talktobook.airoom.chat/)）
 
 图书或文档上传给 AI，与图书/文档聊天。
-
-▶️ Talk To Video
-
-与 Youtube video 聊天。
-
-▶️ GetPage （[getpage.airoom.chat](https://getpage.airoom.chat/)）
-
-与网页内容聊天。
-
-▶️ Follow Video
-
-通过视频学语言。
-
-▶️ API Hub （[apihub.airoom.chat](https://apihub.airoom.chat/)）
-
-API 中转服务。
-
-
-除了以上项目，计划中还有写作、图片、音频与视频等项目，将围绕内容创作推出一系列工具。
 
 ## 会员计划
 
 ### 会员权益
 
-- Airoom 平台工具都有定价，会员将获得折扣优惠价，通常是 6 折优惠价。
+- 会员获得 6 折优惠价使用“与书交谈”，并可以创建私有对话。
 
 - 会员服务：
 
