@@ -12,7 +12,7 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
 不要追随激情，而是培养技能
 
-<img src={Cover1} alt="cover" style={{width:120}} />
+<img src={Cover1} alt="cover" style={{width:360}} />
 
 ------------------
 
@@ -21,7 +21,7 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
 广告行业经典，洞悉商业本质
 
-<img src={CoverCN} alt="cover" style={{width:120}} />
+<img src={CoverCN} alt="cover" style={{width:360}} />
 
 ------------------
 
@@ -29,5 +29,5 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
 学会富人思维，改变现实状况
 
-<img src={Tw} alt="cover" style={{width:120}} />
+<img src={Tw} alt="cover" style={{width:360}} />
 
