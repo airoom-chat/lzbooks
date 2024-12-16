@@ -16,7 +16,7 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
 ------------------
 
-- [《**一个广告人的自白**》](./startup/confessions-of-an-advertising-man) 
+- [《**一个广告人的自白**》](./wam/confessions-of-an-advertising-man) 
 
 
 广告行业经典，洞悉商业本质
