@@ -4,9 +4,25 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
+import Cover3 from '/img/atomic-habits/cover-cn.png'
+import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
 import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
+
+- [《**掌控习惯**》](./growingup/atomic-habits) 
+
+<img src={Cover3} alt="cover" style={{width:360}} />
+
+------------------
+
+- [《**1亿美元出价**》](./wam/100m-offers) 
+
+如何定价及销售产品，让客户无法拒绝
+
+<img src={Cover2} alt="cover" style={{width:360}} />
+
+------------------
 
 - [《**优秀到不能被忽视**》](./growingup/so-good-they-cant-ignore-you) 
 
