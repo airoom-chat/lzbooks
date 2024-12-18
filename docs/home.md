@@ -4,12 +4,18 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
-import Cover3 from '/img/atomic-habits/cover-cn.png'
+import Cover4 from '/img/company-of-one/cover-tw.jpg'
+import Cover3 from '/img/atomic-habits/cover-cn.jpg'
 import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
 import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
+- [《**一人公司**》](./startup/company-of-one) 
+
+<img src={Cover4} alt="cover" style={{width:360}} />
+
+------------------
 - [《**掌控习惯**》](./growingup/atomic-habits) 
 
 <img src={Cover3} alt="cover" style={{width:360}} />
