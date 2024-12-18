@@ -5,7 +5,7 @@ sidebar_position: 2
 
 import Henry from '/img/henry-qr.jpg'
 
-# 300+全球最佳图书: 项目及会员计划
+# 600+全球最佳图书: 项目及会员计划
 
 Airoom 是一个 AI 工具及内容传播平台。
 
@@ -15,7 +15,7 @@ Airoom 是一个 AI 工具及内容传播平台。
 
 ▶️ **亮子书单** （[lzbooks.airoom.chat](https://lzbooks.airoom.chat/)）
 
-每年推荐 300+ 本有影响的英文图书。
+每年推荐 600+ 本有影响的英文图书。
 
 ▶️ **与书交谈** （[talktobook.airoom.chat](https://talktobook.airoom.chat/)）
 
