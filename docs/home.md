@@ -4,6 +4,7 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
+import Cover9 from '/img/altered-traits/cover-cn.jpg'
 import Cover8 from '/img/the-game-of-life-and-how-to-play-it/cover-cn.jpg'
 import Cover7 from '/img/the-happiness-hypothesis/cover-cn.jpg'
 import Cover6 from '/img/same-as-ever/cover-cn.jpg'
@@ -14,6 +15,12 @@ import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
 import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
+
+- [《**新情商**》](./growingup/altered-traits)
+
+<img src={Cover9} alt="cover" style={{width:360}} />
+
+------------------
 
 - [《**失落的幸福经典**》](./growingup/the-game-of-life-and-how-to-play-it)
 
