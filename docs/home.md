@@ -18,6 +18,12 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
 - [《**新情商**》](./growingup/altered-traits)
 
+这本书不是讲情商，而是讲冥想。
+
+**最权威的讲冥想与大脑的书籍**。
+
+要了解冥想，读这一本就可以了。
+
 <img src={Cover9} alt="cover" style={{width:360}} />
 
 ------------------
