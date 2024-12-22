@@ -21,7 +21,7 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
 本书介绍深度工作的价值，以及方法。
 
-如果你是进行内容创作，为了让你的作品脱颖而出，你必须学会深度工作。
+如果你是进行内容创作，为了让作品脱颖而出，你必须学会深度工作。
 
 <img src={Cover10} alt="cover" style={{width:350}} />
 
