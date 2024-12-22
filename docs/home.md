@@ -4,6 +4,7 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
+import Cover10 from '/img/deep-work/cover-cn.jpg'
 import Cover9 from '/img/altered-traits/cover-cn.jpg'
 import Cover8 from '/img/the-game-of-life-and-how-to-play-it/cover-cn.jpg'
 import Cover7 from '/img/the-happiness-hypothesis/cover-cn.jpg'
@@ -15,6 +16,16 @@ import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
 import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
+
+- [《**深度工作**》](./growingup/deep-work)
+
+本书介绍深度工作的价值，以及方法。
+
+如果你是进行内容创作，为了让你的作品脱颖而出，你必须学会深度工作。
+
+<img src={Cover10} alt="cover" style={{width:350}} />
+
+------------------
 
 - [《**新情商**》](./growingup/altered-traits)
 
