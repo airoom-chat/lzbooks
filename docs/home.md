@@ -4,6 +4,7 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
+import Cover11 from '/img/the-millionaire-fastlane/cover-cn.jpg'
 import Cover10 from '/img/deep-work/cover-cn.jpg'
 import Cover9 from '/img/altered-traits/cover-cn.jpg'
 import Cover8 from '/img/the-game-of-life-and-how-to-play-it/cover-cn.jpg'
@@ -16,6 +17,22 @@ import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
 import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
+
+
+- [《**百万富翁快车道**》](./wealth/the-millionaire-fastlane)
+
+《百万富翁快车道》是一本充满激情的书，它鼓励人们积极主动地去创造财富。
+
+- **人行道** —— 月光族，今朝有酒今朝醉。人行道的终点是贫困。
+
+- **慢车道** —— 上班族，牺牲当下，投资未来（40~50年后）。慢车道的终点是普通人。
+
+- **快车道** —— 创业者，掌控自己，努力工作，专注于为客户带来价值。快车道有望在未来5~10年内变得富有。
+
+
+<img src={Cover11} alt="cover" style={{width:350}} />
+
+------------------
 
 - [《**深度工作**》](./growingup/deep-work)
 
