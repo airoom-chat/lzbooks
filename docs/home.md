@@ -4,6 +4,7 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
+import Cover12 from '/img/outlive/cover-cn.jpg'
 import Cover11 from '/img/the-millionaire-fastlane/cover-cn.jpg'
 import Cover10 from '/img/deep-work/cover-cn.jpg'
 import Cover9 from '/img/altered-traits/cover-cn.jpg'
@@ -17,6 +18,19 @@ import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
 import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
+
+
+- [《**超越百岁**》](./health/outlive)
+
+连续数月雄登《纽约时报》畅销书榜首。
+
+**关于健康与长寿，最权威、最全面的阐述。**
+
+你可以知道真正健康的生活、饮食方式的原理，根据自身条件进行积极的改变。
+
+<img src={Cover12} alt="cover" style={{width:350}} />
+
+------------------
 
 
 - [《**百万富翁快车道**》](./wealth/the-millionaire-fastlane)
