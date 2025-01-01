@@ -4,6 +4,11 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
+import Cover17 from '/img/the-personal-mba/cover.png'
+import Cover16 from '/img/the-diary-of-a-ceo/cover-tw.png'
+import Cover15 from '/img/hidden-potential/cover.png'
+import Cover14 from '/img/how-to-fail-at-almost-everything-and-still-win-big/cover-cn.png'
+import Cover13 from '/img/glucose-revolution/cover-cn.png'
 import Cover12 from '/img/outlive/cover-cn.jpg'
 import Cover11 from '/img/the-millionaire-fastlane/cover-cn.jpg'
 import Cover10 from '/img/deep-work/cover-cn.jpg'
@@ -17,7 +22,54 @@ import Cover3 from '/img/atomic-habits/cover-cn.jpg'
 import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
-import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
+
+
+- [《**在家就能读 MBA**》](./startup/the-personal-mba)
+
+绝大多数现代商业实践只需要常识、简单的算术以及一些非常重要的思想和原则。
+
+<img src={Cover17} alt="cover" style={{width:350}} />
+
+------------------
+
+- [《**执行长日记**》](./startup/the-diary-of-a-ceo)
+
+顶级播客主的创业经验，结合研究资料、访谈对象的经验，得出 33 个人生与事业的成功法则，教你如何培养个人能力和打造卓越团队。
+
+<img src={Cover16} alt="cover" style={{width:350}} />
+
+------------------
+
+
+- [《**隐藏的潜能**》](./growingup/hidden-potential)
+
+本书以科学证据为基础，提供的指南都是通过实验、有数据支持的。
+
+如果你是家长或老师，应该读读这本书。因为，关于如何培养孩子、学生，写得特别好。
+
+<img src={Cover15} alt="cover" style={{width:350}} />
+
+------------------
+
+- [《**我的人生样样稀松照样赢**》](./startup/how-to-fail-at-almost-everything-and-still-win-big)
+
+“**创建系统，而不是目标**”
+
+“**失败，是可以管理的资源**”
+
+<img src={Cover14} alt="cover" style={{width:350}} />
+
+------------------
+
+- [《**控糖革命**》](./health/glucose-revolution)
+
+血糖波动对身体和心理健康的广泛影响，包括食欲、体重、能量水平、情绪、皮肤、睡眠和慢性疾病风等。
+
+本书讲授了一系列使用技巧来改善你的血糖水平。
+
+<img src={Cover13} alt="cover" style={{width:350}} />
+
+------------------
 
 
 - [《**超越百岁**》](./health/outlive)
@@ -129,11 +181,4 @@ import Tw from '/img/secrets-of-the-millionaire-mind/tw.png'
 
 <img src={CoverCN} alt="cover" style={{width:360}} />
 
-------------------
-
-- [《**有錢人想的和你不一樣**》](./wealth/Secrets-of-the-Millionaire-Mind) 
-
-学会富人思维，改变现实状况
-
-<img src={Tw} alt="cover" style={{width:360}} />
 
