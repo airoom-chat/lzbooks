@@ -4,6 +4,7 @@ sidebar_position: 1
 title: 最近上架图书
 ---
 
+import Cover19 from '/img/scarcity/cover.png'
 import Cover17 from '/img/the-personal-mba/cover.png'
 import Cover16 from '/img/the-diary-of-a-ceo/cover-tw.png'
 import Cover15 from '/img/hidden-potential/cover.png'
@@ -23,6 +24,18 @@ import Cover2 from '/img/d100m-offers/cover.png'
 import Cover1 from '/img/so-good-they-cant-ignore-you/cover-cn.png'
 import CoverCN from '/img/confessions-of-an-advertising-man/cover-cn.png'
 
+
+- [《**稀缺：我们是如何陷入贫穷与忙碌的**》](./wealth/scarcity)
+
+**稀缺心态是一切稀缺的根源**
+
+**稀缺让人变笨和更加冲动**
+
+**改变心态，逃离稀缺陷阱的唯一希望**
+
+<img src={Cover19} alt="cover" style={{width:350}} />
+
+------------------
 
 - [《**在家就能读 MBA**》](./startup/the-personal-mba)
 
